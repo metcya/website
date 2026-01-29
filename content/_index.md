@@ -1,5 +1,5 @@
 +++
-title = "olivia.sh
+title = "olivia.sh"
 date = 2026-01-29
 +++
 
